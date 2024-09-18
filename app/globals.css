@@ -257,6 +257,10 @@
         background-image: url('/static/images/bento/github.webp');
     }
 
+    .grid-item-j {
+        background-image: url('/static/images/bento/technologies.webp');
+    }
+
     .grid-item-k-overlay {
         background-image: url('/static/images/bento/twitter.webp');
     }
